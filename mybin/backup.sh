@@ -5,7 +5,7 @@ ROOT=/home/imbugsco/
 BACKDIR=wwwroot/backup
 DBNAME=imbugsco_blog
 DBUSER=imbugsco_read
-DBPASS=imbugs1w
+DBPASS=password
 
 cd $ROOT
 mkdir -p $BACKDIR
